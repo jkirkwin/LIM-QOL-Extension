@@ -1,7 +1,7 @@
 # TODO
 
 ## MISC
-* Add icons for the extension
+* Replace default icons for the page action
 * Limit extension to run on LIM pages only
 
 ## Features
@@ -10,3 +10,5 @@
 * Add popup to enable and disable different features
 * Move the trash can to the left side of the posting table page
 * Keep the horizontal scroll bars click-able in the posting browsing page
+* Persist options 
+    * https://developer.chrome.com/extensions/options
